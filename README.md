@@ -3,43 +3,34 @@ A simple C program that performs basic arithmetic operations using a switch case
 This project is a simple C program that performs basic arithmetic operations using a switch case.
 The user can choose an operation and enter two numbers to get the result.
 
-✨ Features
+## Features
 
--Addition
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Uses switch case for operation selection
+- Handles division by zero error
 
--Subtraction
+## 🛠Concepts Used :
 
--Multiplication
+- C Programming
+- switch case
+- User input (scanf)
+- Conditional statements
+- Arithmetic operators\
+  
+## ▶️How to Run :
 
--Division
+- Open any C compiler (GCC, Turbo C, Code::Blocks, etc.)
 
-Uses switch case for operation selection
+- Copy the code into a .c file
 
-Handles division by zero error
+- Compile and run the program
 
-🛠 Concepts Used :
+- Select the operation and enter two numbers
 
--C Programming
-
--switch case
-
--User input (scanf)
-
--Conditional statements
-
--Arithmetic operators
-
-▶️ How to Run :
-
--Open any C compiler (GCC, Turbo C, Code::Blocks, etc.)
-
--Copy the code into a .c file
-
--Compile and run the program
-
--Select the operation and enter two numbers
-
-💻 Sample Output :
+## 💻Sample Output :
 Basic Arithmetic Operations
 1. Addition
 2. Subtraction
@@ -48,3 +39,10 @@ Basic Arithmetic Operations
 Enter your choice: 1
 Enter two numbers: 10 5
 Result = 15.00
+
+## 📥 Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/student-management-system.git
+cd student-management-system
