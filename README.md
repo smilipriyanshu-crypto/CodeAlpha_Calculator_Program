@@ -44,4 +44,4 @@ Result = 15.00
 
 Clone the repository:
 ```bash
-git clone  https://smilipriyanshu-crypto.github.io/CodeAlpha_Calculator_Program/
+git clone  https://github.com/smilipriyanshu-crypto/CodeAlpha_Calculator_Program.git
